@@ -1,16 +1,20 @@
 # aoc22r
 
-[Advent of Code] - an advent calendar of programming puzzles.
+[Advent of Code 2022] - an advent calendar of programming puzzles.
 
 I'll attempt to solve them in Rust while learning it. purely educational.
 
-[Advent of Code]:https://adventofcode.com/2022 
+[Advent of Code 2022]:https://adventofcode.com/2022 
 
 ---
 
 ### Day 1 Calorie Counting
 
 help elves finding the ones carrying the most calories.
+
+### Day 2 Rock Paper Scissors
+
+play Rock Paper Scissors based on a provided strategy.
 
 ---
 
